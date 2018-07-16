@@ -1,0 +1,1 @@
+print("my name is %s and i am %d years old." %("yinheng", 18))
